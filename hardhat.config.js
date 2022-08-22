@@ -9,7 +9,7 @@ module.exports = {
       chainId:1337
     },
     mainnet:{
-      url:"https://mainnet.infura.io/v3/de0bd71bc199447cbddca056fb2e2648",
+      url:"https://mainnet.infura.io/v3/",
       accounts: [privatekey]
     }
   },
